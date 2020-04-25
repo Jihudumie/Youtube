@@ -20,4 +20,3 @@ class Config:
     CRED_FILE = "auth_token.txt"                                        # Credentials file
 
 
-
