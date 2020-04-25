@@ -64,4 +64,3 @@ class Uploader:
             self.status = False
             self.message = f"Error occuered during upload.\nError details: {e}"
         return
-
