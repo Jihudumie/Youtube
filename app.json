@@ -11,27 +11,27 @@
     },
     "API_ID": {
       "description": "Your API_ID, Refer project docs.",
-      "value": ""
+      "value": "1077964"
     },
     "API_HASH": {
       "description": "Your API_ID, Refer project docs.",
-      "value": ""
+      "value": "9ba06dca185001e1ef647efb0c4925e4"
     },
     "CLIENT_ID": {
       "description": "Your Google CLIENT_ID, Refer project docs.",
-      "value": ""
+      "value": "901265932388-6gkop2eo8ntj8lpuqtolfhghqq8sshd1.apps.googleusercontent.com"
     },
     "CLIENT_SECRET": {
       "description": "Your Google CLIENT_SECRET, Refer project docs.",
-      "value": ""
+      "value": "SmSCxUJ-P1T0GbpfCVTMZk6Z"
     },
     "BOT_OWNER": {
       "description": "Your Telegram id.",
-      "value": ""
+      "value": "654648997"
     },
     "AUTH_USERS": {
       "description": "Telegram id of authorised users, separated by comma",
-      "value": "",
+      "value": "654648997,1041455290,677389458",
       "required":false
     }
    },
